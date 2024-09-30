@@ -8,5 +8,7 @@
        "src": "/",
        "dest": "/"
      }
-    ]
+    ],
+    "requires": true,
+    "packages": {}
 }
